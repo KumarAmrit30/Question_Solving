@@ -1,0 +1,1 @@
+{"name":"Local: 1-477","url":"t:\\Do Not Open\\Programming\\CodeChef\\1-477.cpp","tests":[{"id":1705062488772,"input":"8\n7\n14\n21\n18\n27\n63\n126\n8","output":"Charlie\nAlice\nCharlie\nCharlie\nBob\nBob\nAlice\nCharlie"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"t:\\Do Not Open\\Programming\\CodeChef\\1-477.cpp","group":"local","local":true}
